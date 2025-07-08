@@ -1,0 +1,8 @@
+[
+  { "id": 1, "category": "Sales", "label": "Jan", "value": 120 },
+  { "id": 2, "category": "Sales", "label": "Feb", "value": 200 },
+  { "id": 3, "category": "Marketing", "label": "Jan", "value": 90 },
+  { "id": 4, "category": "Marketing", "label": "Feb", "value": 150 },
+  { "id": 5, "category": "Development", "label": "Jan", "value": 300 },
+  { "id": 6, "category": "Development", "label": "Feb", "value": 250 }
+]
